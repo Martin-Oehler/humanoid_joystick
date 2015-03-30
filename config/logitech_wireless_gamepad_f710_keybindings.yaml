@@ -1,0 +1,18 @@
+humanoid_joystick:
+  logitech_wireless_gamepad_f710_keybindings:
+    cart_trans_x: 0
+    cart_trans_y: 1
+    cart_rot_x: 2
+    cart_rot_y: 3
+    head_pan: 4
+    head_tilt: 5
+
+    switch_axis_btn: 0
+    hello_btn: 3
+    shake_btn: 2
+    open_hand_btn: 6
+    close_hand_btn: 7
+
+    reset_ft_btn: 1
+
+    toggle_compl_btn: 5

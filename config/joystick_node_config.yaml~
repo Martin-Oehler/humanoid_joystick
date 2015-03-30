@@ -1,0 +1,10 @@
+humanoid_joystick:
+  controller_name: "logitech_wireless_gamepad_f710"
+  reset_ft_topic: "/thor_mang/zero_ft"
+  toggle_compl_topic: "/thor_mang/right_arm_compliant_controller/toggle_compl"
+  cart_cmd_topic: "/thor_mang/right_arm_compliant_controller/r_arm_pose"
+  head_cmd_topic: ""
+
+joy_node:
+  dev: "/dev/input/js1"
+  deadzone: 0.12 

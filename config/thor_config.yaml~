@@ -1,0 +1,11 @@
+humanoid_joystick:
+  trans_speed: 0.02
+  controller_name: "logitech_wireless_gamepad_f710"
+  reset_ft_topic: "/thor_mang/zero_ft"
+  toggle_compl_topic: "/thor_mang/right_arm_compliant_controller/toggle_compl"
+  cart_cmd_topic: "/thor_mang/r_arm_pose"
+  head_cmd_topic: "/thor_mang/head_traj_controller/command"
+  state_topic: "/thor_mang/tip_pose_publisher/right_hand"
+  thumb_topic: "/thor_mang/r_hand_thumb_position_controller/command"
+  index_topic: "/thor_mang/r_hand_index_position_controller/command"
+  middle_topic: "/thor_mang/r_hand_middle_position_controller/command"

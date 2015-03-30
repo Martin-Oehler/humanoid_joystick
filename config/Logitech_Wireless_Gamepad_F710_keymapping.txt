@@ -1,0 +1,27 @@
+Logitech Wireless Gamepad F710
+
+Buttons:
+X: 0
+A: 1
+B: 2
+Y: 3
+
+LB: 4
+RB: 5
+LT: 6
+RT: 7
+
+Left stick push: 10
+Right stick push: 11
+
+Axis (Mode: Off):
+Left stick x (left-right): 0
+Left stick y (up-down): 1
+
+Right stick x: 2
+Right stick y: 3
+
+Pad x: 4
+Pad y: 5
+
+
